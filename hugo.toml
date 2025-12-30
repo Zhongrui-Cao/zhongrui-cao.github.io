@@ -1,7 +1,7 @@
 baseURL = 'https://zhongrui-cao.github.io/'
 languageCode = 'en-us'
-title = 'Leo Cao'
-# theme = 'typo'
+title = 'Leo Cao 曹钟瑞'
+theme = 'typo'
 
 # Google analytics code
 # googleAnalytics = "G-xxxxxxxxx"
@@ -15,19 +15,22 @@ tag = 'tags'
 
 # Appearance settings
 theme = 'auto'
-colorPalette = 'catpuccin'
+colorPalette = 'base16-mocha'
 hideHeader = false
 
 # Intro on main page, content is markdown
-homeIntroTitle = 'Hi!'
+# homeIntroTitle = 'Hi!'
 homeIntroContent = """
-I am an second year PhD student at UW Madison.
-I am interested in....
+I am a second year CS PhD student at UW Madison.
+I am furtunate to work in the Wisc Privacy Lab, advised by Prof. Kassem Fawaz.
+I'm currently excited about reverse engineering mobile and web applications for privacy, and extracting ML models from them.
+Before this, I got my BS/MS from UC San Diego.
+I was lucky to work with Prof. Earlence Fernandes in the cryptosec group on building better authorization systems for cloud apps.
 """
 
 # Collection to display on home
-homeCollectionTitle = 'Posts'
-homeCollection = 'posts'
+homeCollectionTitle = 'Publications'
+homeCollection = 'publications'
 
 # Lists parameters
 paginationSize = 100
@@ -43,15 +46,11 @@ home = "Home"
 # Social icons
 [[params.social]]
 name = "linkedin"
-url = "https://www.linkedin.com/in/user/"
-
-[[params.social]]
-name = "medium"
-url = "https://medium.com/@user"
+url = "https://www.linkedin.com/in/zhongrui-cao-689083153/"
 
 [[params.social]]
 name = "github"
-url = "https://github.com/user"
+url = "https://github.com/Zhongrui-Cao"
 
 # Main menu pages
 [[params.menu]]
@@ -61,6 +60,10 @@ url = "/"
 [[params.menu]]
 name = "posts"
 url = "/posts"
+
+[[params.menu]]
+name = "publications"
+url = "/publications"
 
 [[params.menu]]
 name = "about"

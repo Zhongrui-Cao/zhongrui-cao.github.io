@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Leo Cao 曹钟瑞</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Leo Cao 曹钟瑞</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/publications/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/publications/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Stateful Least Privilege Authorization for the Cloud&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;Leo Cao*&lt;/strong&gt;, Luoxi Meng*, Deian Stefan, and Earlence Fernandes.&lt;br&gt;&#xA;&lt;em&gt;33rd USENIX Security Symposium (USENIX Security 24)&lt;/em&gt;. Philadelphia, PA.&lt;br&gt;&#xA;&lt;a href=&#34;https://www.usenix.org/conference/usenixsecurity24/presentation/cao-leo&#34;&gt;&lt;strong&gt;[Paper]&lt;/strong&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/earlence-security/stateful-auth&#34;&gt;&lt;strong&gt;[Code]&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
