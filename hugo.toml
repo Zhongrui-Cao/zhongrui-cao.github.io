@@ -25,7 +25,7 @@ hideHeader = false
 # homeIntroTitle = 'Hi!'
 homeIntroContent = """
 I am a second year CS PhD student at UW Madison.
-I am furtunate to work in the [Wisc Privacy Lab](https://wiscprivacy.com/), advised by [Prof. Kassem Fawaz](https://kassemfawaz.com).
+I am fortunate to work in the [Wisc Privacy Lab](https://wiscprivacy.com/), advised by [Prof. Kassem Fawaz](https://kassemfawaz.com).
 I'm currently excited about reverse engineering mobile and web applications for privacy, and extracting ML models from them.
 Before this, I got my BS/MS from UC San Diego.
 I was lucky to work with [Prof. Earlence Fernandes](https://earlence.com) in the [cryptosec](https://cryptosec.ucsd.edu/) group on building better authorization systems for cloud apps.
